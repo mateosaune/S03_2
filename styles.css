@@ -1,3 +1,16 @@
+<<<<<<< HEAD
 h1{
     color: peru;
+=======
+h1 {
+    color: blue;
+}
+
+p{
+    color: green;
+}
+
+a{
+    color: inherit;
+>>>>>>> 5482f7b (feature: fix content of CSS)
 }
