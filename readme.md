@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CSS
 1. Hoja de estilos en cascada
 ```html
@@ -17,8 +16,6 @@
 <h1 style="color: red">CSS</h1>
 ```
 ## SINTAXIS CSS
-=======
-# css
 
 - Lenguage for web styles (1996) 
 
@@ -39,11 +36,11 @@
 
 ## IMPORTANT CSS CONCEPTS -- CONCEPTOS IMPORTANTES EN CSS
 
--- 4 CSS IMPORTANT CONCEPTS
+- 4 CSS IMPORTANT CONCEPTS
 
 ## SELECTORS -- SELECTORES
 
--- Indica a que elemento se le aplicara los estilos
+- Indica a que elemento se le aplicara los estilos
 
 ```css
     /*TAG SELECTOR */
