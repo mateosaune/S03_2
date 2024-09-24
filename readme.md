@@ -104,4 +104,16 @@
     <!-- IMPORTANT (1000000)-->
 
 ```
->>>>>>> 5482f7b (feature: fix content of CSS)
+## STYLES TEXTS
+
+### PROPERTIES
+
+- color
+- font-size (em,rem,px)
+- font-family (google fonts - fontface)
+- font-weight (peso de tipografia)
+- estilo entre navegadores (normalize.css)
+- text-transform: uppercase | lowercase | capitalize
+- text-align : left | center | right
+- text-decoration : none | underline
+
